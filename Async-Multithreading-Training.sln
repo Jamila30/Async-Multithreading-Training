@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36408.4 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L1-ThreadClass", "L1-ThreadClass\L1-ThreadClass.csproj", "{492825D6-609B-4A25-B233-2885352F9DAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L2-ThreadSyncAndBlockingSync", "L2-ThreadSyncAndBlockingSync\L2-ThreadSyncAndBlockingSync.csproj", "{E7B48F96-F738-4BF9-8D16-29584AF8BFC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{492825D6-609B-4A25-B233-2885352F9DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{492825D6-609B-4A25-B233-2885352F9DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{492825D6-609B-4A25-B233-2885352F9DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7B48F96-F738-4BF9-8D16-29584AF8BFC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7B48F96-F738-4BF9-8D16-29584AF8BFC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7B48F96-F738-4BF9-8D16-29584AF8BFC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7B48F96-F738-4BF9-8D16-29584AF8BFC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
