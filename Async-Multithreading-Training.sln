@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L3-TS-SemaphoreAndSemaphore
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L4-TS-NonBlockingSync", "L4-TS-NonBlockingSync\L4-TS-NonBlockingSync.csproj", "{75234E8B-6B55-4DBE-8FE5-2FA9AC193466}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L5-TS-Interlocked-MemoryBarrier", "L5-TS-Interlocked-MemoryBarrier\L5-TS-Interlocked-MemoryBarrier.csproj", "{611A817F-372D-4FD3-AD8F-6164983239D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L6-TS-SpinLock-SpinWait", "L6-TS-SpinLock-SpinWait\L6-TS-SpinLock-SpinWait.csproj", "{21C535BA-8104-4259-8115-B6138D75AEB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{75234E8B-6B55-4DBE-8FE5-2FA9AC193466}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75234E8B-6B55-4DBE-8FE5-2FA9AC193466}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75234E8B-6B55-4DBE-8FE5-2FA9AC193466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{611A817F-372D-4FD3-AD8F-6164983239D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611A817F-372D-4FD3-AD8F-6164983239D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611A817F-372D-4FD3-AD8F-6164983239D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611A817F-372D-4FD3-AD8F-6164983239D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C535BA-8104-4259-8115-B6138D75AEB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C535BA-8104-4259-8115-B6138D75AEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C535BA-8104-4259-8115-B6138D75AEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C535BA-8104-4259-8115-B6138D75AEB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
