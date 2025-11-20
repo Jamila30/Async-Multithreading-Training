@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L5-TS-Interlocked-MemoryBar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L6-TS-SpinLock-SpinWait", "L6-TS-SpinLock-SpinWait\L6-TS-SpinLock-SpinWait.csproj", "{21C535BA-8104-4259-8115-B6138D75AEB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L7-TS-ReaderWriterLock-ReaderWriterLockSlim", "L7-TS-ReaderWriterLock-ReaderWriterLockSlim\L7-TS-ReaderWriterLock-ReaderWriterLockSlim.csproj", "{644D8115-D4B9-47B9-B7D2-8181201AF416}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L7-TS-Signalling", "L7-TS-Signalling\L7-TS-Signalling.csproj", "{F778F718-7C8C-41EF-B952-A12B060238F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{21C535BA-8104-4259-8115-B6138D75AEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21C535BA-8104-4259-8115-B6138D75AEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21C535BA-8104-4259-8115-B6138D75AEB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{644D8115-D4B9-47B9-B7D2-8181201AF416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644D8115-D4B9-47B9-B7D2-8181201AF416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644D8115-D4B9-47B9-B7D2-8181201AF416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644D8115-D4B9-47B9-B7D2-8181201AF416}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F778F718-7C8C-41EF-B952-A12B060238F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F778F718-7C8C-41EF-B952-A12B060238F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F778F718-7C8C-41EF-B952-A12B060238F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F778F718-7C8C-41EF-B952-A12B060238F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
