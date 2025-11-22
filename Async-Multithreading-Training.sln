@@ -17,7 +17,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L6-TS-SpinLock-SpinWait", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L7-TS-ReaderWriterLock-ReaderWriterLockSlim", "L7-TS-ReaderWriterLock-ReaderWriterLockSlim\L7-TS-ReaderWriterLock-ReaderWriterLockSlim.csproj", "{644D8115-D4B9-47B9-B7D2-8181201AF416}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L7-TS-Signalling", "L7-TS-Signalling\L7-TS-Signalling.csproj", "{F778F718-7C8C-41EF-B952-A12B060238F3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L8-TS-Signalling", "L8-TS-Signalling\L8-TS-Signalling.csproj", "{F778F718-7C8C-41EF-B952-A12B060238F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L9-ThreadPool-WaitHandle", "L9-ThreadPool-WaitHandle\L9-ThreadPool-WaitHandle.csproj", "{7AFCFB26-57FD-4779-82F4-444A155098C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{F778F718-7C8C-41EF-B952-A12B060238F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F778F718-7C8C-41EF-B952-A12B060238F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F778F718-7C8C-41EF-B952-A12B060238F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AFCFB26-57FD-4779-82F4-444A155098C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AFCFB26-57FD-4779-82F4-444A155098C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AFCFB26-57FD-4779-82F4-444A155098C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AFCFB26-57FD-4779-82F4-444A155098C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

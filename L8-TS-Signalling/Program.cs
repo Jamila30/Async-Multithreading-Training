@@ -91,7 +91,7 @@ Console.WriteLine("Hello, World!");
 
 #region CountdownEvent
 
-////wait=ler count qeder siqnal gormeden run olmur, 3 yazmisamsa 3 signal gormese run olmayacaq meselen 4,5 , gorse vardirsa run olur
+////wait=ler count qeder siqnal gormeden run olmur, 3 yazmisamsa 3 signal gormese run olmayacaq meselen 4,5       gorse vardirsa run olur
 ///
 //CountdownEvent countdownEvent = new(4);
 //Thread thread1 = new Thread(() =>
