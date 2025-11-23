@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L8-TS-Signalling", "L8-TS-S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L9-ThreadPool-WaitHandle", "L9-ThreadPool-WaitHandle\L9-ThreadPool-WaitHandle.csproj", "{7AFCFB26-57FD-4779-82F4-444A155098C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LS-10-TS-Barrier-Class", "LS-10-TS-Barrier-Class\LS-10-TS-Barrier-Class.csproj", "{258F9AAF-11A0-4D5A-BF7D-20D44953C299}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{7AFCFB26-57FD-4779-82F4-444A155098C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AFCFB26-57FD-4779-82F4-444A155098C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AFCFB26-57FD-4779-82F4-444A155098C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{258F9AAF-11A0-4D5A-BF7D-20D44953C299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{258F9AAF-11A0-4D5A-BF7D-20D44953C299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{258F9AAF-11A0-4D5A-BF7D-20D44953C299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{258F9AAF-11A0-4D5A-BF7D-20D44953C299}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
