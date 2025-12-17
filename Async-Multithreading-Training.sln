@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LS-11-Thread-Local-Storage(
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LS-12-Timers", "LS-12-Timers\LS-12-Timers.csproj", "{2CB8ADC4-0B02-480F-81C3-92A7C228597F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LS-13-Task-Class", "LS-13-Task-Class\LS-13-Task-Class.csproj", "{1E501E71-DA9E-4D8C-AF89-DBBA0465817B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{2CB8ADC4-0B02-480F-81C3-92A7C228597F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CB8ADC4-0B02-480F-81C3-92A7C228597F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CB8ADC4-0B02-480F-81C3-92A7C228597F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E501E71-DA9E-4D8C-AF89-DBBA0465817B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E501E71-DA9E-4D8C-AF89-DBBA0465817B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E501E71-DA9E-4D8C-AF89-DBBA0465817B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E501E71-DA9E-4D8C-AF89-DBBA0465817B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
