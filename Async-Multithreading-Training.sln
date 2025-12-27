@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LS-14-Task-Factory-Schedula
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LS-15-CancellationToken-CancellationTokenSource-ValueTask", "LS-15-CancellationToken-CancellationTokenSource-ValueTask\LS-15-CancellationToken-CancellationTokenSource-ValueTask.csproj", "{5AA46B0B-CF0D-4BFA-9419-0B2FA65E48FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LS-18-IAsyncEnumurable-IAsyncEnumerator", "LS-18-IAsyncEnumurable-IAsyncEnumerator\LS-18-IAsyncEnumurable-IAsyncEnumerator.csproj", "{20DE8B38-7AC7-47B2-8855-FF893BBE2C8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{5AA46B0B-CF0D-4BFA-9419-0B2FA65E48FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AA46B0B-CF0D-4BFA-9419-0B2FA65E48FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AA46B0B-CF0D-4BFA-9419-0B2FA65E48FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20DE8B38-7AC7-47B2-8855-FF893BBE2C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DE8B38-7AC7-47B2-8855-FF893BBE2C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DE8B38-7AC7-47B2-8855-FF893BBE2C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DE8B38-7AC7-47B2-8855-FF893BBE2C8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
